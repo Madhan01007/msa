@@ -1,2 +1,2 @@
-n="git"
-print(n)
+name="git"
+print(name)
