@@ -1,2 +1,2 @@
-name="git"
+name2="git"
 print(name)
